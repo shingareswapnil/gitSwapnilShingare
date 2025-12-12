@@ -7,12 +7,12 @@ Started my journey as an **Automation Test Engineer**, and transitioned into Dat
 ---
 
 ## ⚡ About Me  
-- 🔹 Data Engineer with hands-on experience in **Azure ADF, Databricks, PySpark, Snowflake, Synapse**  
-- 🔹 Built 20+ pipelines in production (incremental loads, CDC, transformations)  
-- 🔹 Experience migrating **ADLS Gen1 → Gen2 (2TB+)**  
-- 🔹 Strong background in **Automation Testing** using Java, Selenium, REST Assured  
-- 🔹 Passionate about cloud engineering, pipeline optimization & clean data architecture  
-- 🔹 Always learning, always building 🚀  
+-  Data Engineer with hands-on experience in **Azure ADF, Databricks, PySpark, Snowflake, Synapse**  
+-  Built 20+ pipelines in production (incremental loads, CDC, transformations)  
+-  Experience migrating **ADLS Gen1 → Gen2 (2TB+)**  
+-  Strong background in **Automation Testing** using Java, Selenium, REST Assured  
+-  Passionate about cloud engineering, pipeline optimization & clean data architecture  
+-  Always learning, always building 🚀  
 
 ---
 
