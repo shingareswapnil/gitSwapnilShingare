@@ -81,7 +81,7 @@ Real-world SQL queries with case studies and analytics problems.
 ---
 
 ## 📬 Connect With Me  
-- 🔗 LinkedIn: **[linkedin.com/in/swapnil-shingare](https://linkedin.com/in/swapnil-shingare)**  
+- 🔗 LinkedIn: **[linkedin.com/in/swapnil-shingare](https://www.linkedin.com/in/swapnil-shingare-78a243339)**  
 - 💻 GitHub: **https://github.com/shingareswapnil**  
 - 📧 Email: **shingareswapnil17@gmail.com**  
 
